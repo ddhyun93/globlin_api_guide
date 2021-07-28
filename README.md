@@ -1,6 +1,6 @@
 # globlin_api_guide
 
-##프로젝트 개요 
+## 프로젝트 개요 
 
 > [글로블린](https://globlin.io)은 글로벌 마케팅 대행 서비스를 제공하는 [네이콘](https://neicon.net)에서 개발한 "글로벌 인플루언서 마케팅 매니징 툴" 입니다.  
 > 자세한 툴 사용에 대한 가이드는 [링크](https://github.com/ddhyun93/globlin_guide) 를 참조해주세요.
